@@ -1,7 +1,7 @@
 import os
 from google import genai
 
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEy"))
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 
 def prompt_llm(prompt):
