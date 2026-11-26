@@ -9,7 +9,7 @@ st.set_page_config(
 
 st.title('Streamlit :blue[Pro]:red[ject] :grin:')
 
-st.header('Gemini Project :green[:robot:]')
+st.header(':yellow[Gemini] Project :green[:robot:]')
 
 st.subheader('Using Gemini-3.6-flash Model')
 
