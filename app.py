@@ -7,7 +7,7 @@ st.set_page_config(
     layout='wide'
 )
 
-st.title('Streamlit :blue[Pro]:red[ject] :grin:', icon='🦁')
+st.title('Streamlit :blue[Pro]:red[ject] :grin:')
 
 st.header('Gemini Project :green[:robot:]')
 
